@@ -5,3 +5,5 @@ Where are you from?
 holla
 you are from which city?
 What is your dat of birth?
+Who are you?
+What are you doing?
